@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Site para minha namorada</title>
+	<style>
+		
+	</style>
+</head>
+<body>
+	<h1 style="text-align: center; margin-top: 150px;">Oi gatinha!</h1>
+	<button onclick="alert('Eu te amo muito!')" style="margin-top: 200px; margin-left: 510px; border-radius: 100px; width: 30%; height: 50px; ">Clique aqui</button>
+</body>
+</html>
